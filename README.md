@@ -24,9 +24,13 @@
 ![alt text](<screenshots/4/Знімок екрана з 2024-06-28 15-04-44.png>)
 
 ### 5. Copy test html to volume
+![alt text](<screenshots/5/Знімок екрана з 2024-06-28 21-39-17.png>)
 
 
 ### 6. Check that nginx return test html
+![alt text](<screenshots/6/Знімок екрана з 2024-06-28 21-34-37.png>)
+![alt text](<screenshots/6/Знімок екрана з 2024-06-28 21-42-28.png>)
+![alt text](<screenshots/6/Знімок екрана з 2024-06-28 21-42-59.png>)
 
 
 ### 7. Delete pod with nginx
