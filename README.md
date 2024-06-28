@@ -34,6 +34,11 @@
 
 
 ### 7. Delete pod with nginx
+![alt text](<screenshots/7/Знімок екрана з 2024-06-28 22-00-27.png>)
+![alt text](<screenshots/7/Знімок екрана з 2024-06-28 22-02-20.png>)
+![alt text](<screenshots/7/Знімок екрана з 2024-06-28 22-02-47.png>)
 
 
 ### 8. Make sure that nginx return test html
+![alt text](<screenshots/8/Знімок екрана з 2024-06-28 22-03-48.png>)
+![alt text](<screenshots/8/Знімок екрана з 2024-06-28 22-04-22.png>)
